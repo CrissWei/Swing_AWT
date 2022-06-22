@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module1_awt/Module1_awt.iml" filepath="$PROJECT_DIR$/Module1_awt/Module1_awt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1_awt/Module2_swing.iml" filepath="$PROJECT_DIR$/Module1_awt/Module2_swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_2swing/Module_2swing.iml" filepath="$PROJECT_DIR$/Module_2swing/Module_2swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awtProject.iml" filepath="$PROJECT_DIR$/awtProject.iml" />
+    </modules>
+  </component>
+</project>
